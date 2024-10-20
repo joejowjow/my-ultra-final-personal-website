@@ -40,7 +40,7 @@ const App: React.FC = () => {
               className="flex items-center bg-blue-600 text-white py-2 px-4 rounded hover:bg-blue-700 transition duration-300"
               aria-label="Hire Youssef K on Freelancer"
             >
-              Hire Youssef K <ExternalLink className="w-4 h-4 ml-2" />
+              Hire Youssef <ExternalLink className="w-4 h-4 ml-2" />
             </a>
             <a
               href="mailto:yokyheikal@gmail.com"
