@@ -18,6 +18,11 @@ const projects = [
     description: 'Immersive CGI animation creating a breathtaking fantasy world for a game trailer',
     videoUrl: 'https://drive.google.com/drive/folders/1_1dNxrttYBPCj05MmB7ZZ7HmT9uXjU6r?usp=drive_link',
   },
+  {
+    title: 'Real Estate Renders',
+    description: 'Immersive CGI animation creating a breathtaking fantasy world for a game trailer',
+    videoUrl: 'https://drive.google.com/drive/u/0/folders/1NuVI-Rcu4HYKbu-vDQeCZD3QOPcwZTF2',
+  },
 ];
 
 const freelancerProfileUrl = 'https://www.freelancer.com/u/youssef506';
