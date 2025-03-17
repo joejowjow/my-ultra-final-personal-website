@@ -134,8 +134,6 @@ const App: React.FC = () => {
           </div>
         </div>
       </motion.section>
-
-      {/* About Section */}
       <motion.section
         id="about"
         className="py-20 bg-gray-800"
@@ -189,7 +187,6 @@ const App: React.FC = () => {
       {/* Footer */}
       <footer className="py-6 bg-black text-center">
         <p className="text-gray-400">© 2025 Youssef K. All rights reserved.
-                            <3 Mrs. Heba
         </p>
       </footer>
     </div>
