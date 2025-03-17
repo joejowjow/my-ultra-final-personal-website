@@ -18,6 +18,11 @@ const projects = [
     description: 'Immersive CGI animation creating a breathtaking fantasy world for a game trailer',
     videoUrl: 'https://drive.google.com/drive/folders/1_1dNxrttYBPCj05MmB7ZZ7HmT9uXjU6r?usp=drive_link',
   },
+  {
+    title: 'archetictual Designs',
+    description: 'Bring your visons to reality through ground breaking masterpiece ',
+    videoUrl: 'https://drive.google.com/drive/folders/1_1dNxrttYBPCj05MmB7ZZ7HmT9uXjU6r?usp=drive_link',
+  },
 ];
 
 const freelancerProfileUrl = 'https://www.freelancer.com/u/youssef506';
@@ -183,7 +188,9 @@ const App: React.FC = () => {
 
       {/* Footer */}
       <footer className="py-6 bg-black text-center">
-        <p className="text-gray-400">© 2024 Youssef K. All rights reserved.</p>
+        <p className="text-gray-400">© 2025 Youssef K. All rights reserved.
+                            <3 Mrs. Heba
+        </p>
       </footer>
     </div>
   );
